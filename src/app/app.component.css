@@ -1,0 +1,9 @@
+.full-width-section {
+    width: 100%;
+    background: #4bd0f1;
+}
+
+.main-section {
+    max-width: 1300px;
+    background: #e2d959;
+}
